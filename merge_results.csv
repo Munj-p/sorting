@@ -1,0 +1,10 @@
+Algorithm,InputSize,Case,TimeSeconds
+MergeSort,10000,Random,0.00879684
+MergeSort,10000,SortedAsc,0.00631824
+MergeSort,10000,WorstCase,0.00440419
+MergeSort,50000,Random,0.0284614
+MergeSort,50000,SortedAsc,0.0228805
+MergeSort,50000,WorstCase,0.02354
+MergeSort,100000,Random,0.0590594
+MergeSort,100000,SortedAsc,0.0464516
+MergeSort,100000,WorstCase,0.0474017
